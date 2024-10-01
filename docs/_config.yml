@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Bernadette Stolz'
 description: 'Personal Website of Bernadette Stolz, Researcher in Topological Data Analysis for Biomedicine at the Max Planck Institute for Biochemistry'
 permalink: pretty
-logo: "/images/Logo3.pdf
+logo: "/images/Logo3.pdf"
 twitter_username: StolzBernadette
 github_username:  stolzbernadette
 
@@ -60,7 +60,7 @@ collections:
     description: ""
     feature_text: |
       Welcome to my personal website
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "image/background_image/IMG_9380.jpg"
 
 # Collection settings
 defaults:
