@@ -4,7 +4,8 @@ title: Group
 
 **Current members**
 
-<img src="path/to/foto.jpg" alt="Photo of Bernadette J. Stolz" width="300" />
+<img src="/images/group_fotos/Stolz_lowRes.jpg" alt="Photo of Bernadette J. Stolz" width="250" />
+
 Bernadette Stolz
 
 PI

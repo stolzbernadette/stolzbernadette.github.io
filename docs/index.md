@@ -1,8 +1,8 @@
 ---
 title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/images/background_image/IMG_5650"
 feature_text: |
-  ## Hello world
+  ## Topological Learning for Biomedicine
 ---
 
-There isn't much going on here yet, but watch this space
+Welcome to the website of the *Topological Learning for Biomedicine* group led by Bernadette Stolz. We bridge fields from computational mathematics and data science to biomedicine to answer complex data problems arising in real-life biological systems.
