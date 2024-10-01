@@ -1,6 +1,6 @@
 ---
-title: Welcome to my website
-feature_image: "/images/background_image/IMG_5650"
+title:
+feature_image: "/images/background_image/IMG_5650.jpg"
 feature_text: |
   ## Topological Learning for Biomedicine
 ---

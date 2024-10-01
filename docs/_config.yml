@@ -24,9 +24,11 @@ plugins:
 url: 'stolzbernadette.github.io'
 baseurl: ''
 title: 'Bernadette Stolz'
-description: 'This is my personal website'
+description: 'Personal Website of Bernadette Stolz, Researcher in Topological Data Analysis for Biomedicine at the Max Planck Institute for Biochemistry'
 permalink: pretty
 logo: ""
+twitter_username: StolzBernadette
+github_username:  stolzbernadette
 
 # Pagination
 paginate: 5

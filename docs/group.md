@@ -8,7 +8,7 @@ title: Group
 
 Bernadette Stolz
 
-PI
+Project Leader
 
 stolz'at'biochem.mpg.de
 

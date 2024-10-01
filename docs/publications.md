@@ -4,7 +4,7 @@ title: Publications
 
 **Publications**
 
-1. Bernadette J. Stolz, Jagdeep Dhesi, Joshua A. Bull, Heather A. Harrington, Helen M. Byrne, and Iris H. R. Yoon, [*Relational persistent homology for multispecies data with application to the tumour microenvironment*](file:///Users/stolz/Downloads/s11538-024-01353-6.pdf), Bulletin of Mathematical Biology **86** (11): 128, 2024.
+1. Bernadette J. Stolz, Jagdeep Dhesi, Joshua A. Bull, Heather A. Harrington, Helen M. Byrne, and Iris H. R. Yoon, [*Relational persistent homology for multispecies data with application to the tumour microenvironment*](https://link.springer.com/article/10.1007/s11538-024-01353-6), Bulletin of Mathematical Biology **86** (11): 128, 2024.
 
 2. Jakub Köry, Vedang Narain, Bernadette J. Stolz, Jakob Kaeppler, Bostjan Markelc, Ruth J. Muschel, Philip K. Maini, Joe M. Pitt-Francis, and Helen M. Byrne, [*Enhanced perfusion following exposure to radiotherapy: a theoretical investigation*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011252), PLOS Computational Biology **20** (2): e1011252, 2024.
 
@@ -12,7 +12,7 @@ title: Publications
 
 4. Bernadette J. Stolz, [*Outlier-robust subsampling techniques for persistent homology*](https://www.jmlr.org/papers/volume24/21-1526/21-1526.pdf), Journal of Machine Learning Research **24** (90): 1-35, 2023; selected for presentation at ICLR 2024.
 
-5. Hosuk Ryou, Korsuk Sirinukunwattana, Alan Aberdeen, Gillian Grindstaff, Bernadette J. Stolz, Helen Byrne, Heather A. Harrington, Nikolaos Sousos, Anna L. Godfrey, Claire N. Harrison, Bethan Psaila, Adam J. Mead, Gabrielle Rees, Gareth D. H. Turner, Jens Rittschner, and Daniel Royston, [*Continuous indexing of fibrosis (CIF): Improving the assessment and classification of MPN patients*](file:///Users/stolz/Downloads/s41375-022-01773-0-4.pdf), Leukemia **37** (2): 348-358, 2022.
+5. Hosuk Ryou, Korsuk Sirinukunwattana, Alan Aberdeen, Gillian Grindstaff, Bernadette J. Stolz, Helen Byrne, Heather A. Harrington, Nikolaos Sousos, Anna L. Godfrey, Claire N. Harrison, Bethan Psaila, Adam J. Mead, Gabrielle Rees, Gareth D. H. Turner, Jens Rittschner, and Daniel Royston, [*Continuous indexing of fibrosis (CIF): Improving the assessment and classification of MPN patients*](https://www.nature.com/articles/s41375-022-01773-0), Leukemia **37** (2): 348-358, 2022.
 
 6. Bernadette J. Stolz, Jakob Kaeppler, Bostjan Markelc, Franziska Mech, Florian Lipsmeier, Ruth J. Muschel, Helen M. Byrne, and Heather A. Harrington, [*Multiscale topology characterises dynamic tumour vascular networks*](https://www.science.org/doi/epdf/10.1126/sciadv.abm2456), Science Advances **8** (23): eabm2456, 2022.
 
@@ -26,7 +26,7 @@ title: Publications
 
 11. Helen M. Byrne, Heather A. Harrington, Ruth Muschel, Gesine Reinert, Bernadette J. Stolz, and Ulrike Tillmann, [*Topology characterises tumour vasculature*](/files/IMA_Byrne2019.pdf), Mathematics Today **55** (5): 206-210, 2019.
 
-12. Bernadette J. Stolz, Heather A. Harrington, and Mason A. Porter, [*Persistent homology of time-dependent functional networks constructed from coupled time series*](https://watermark.silverchair.com/047410_1_online.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABbAwggWsBgkqhkiG9w0BBwagggWdMIIFmQIBADCCBZIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM_U5vcZ55KHRsM-l6AgEQgIIFY2VitZtWUV45293QGIiURZ08jBOyodkxq9Ivl2xT3iJW2WXp4lzRWhsC_6pNAqHRTzxWZg8BtfAKJnap5fz8eaXVEo0pzq4ZVkMAOaHo-JP29dZ-ngtW1Si9DdaqYc71rgNjPDPHta0L-G7a0TUDWHyzgdEN3o4vxEu8c383BmCFDCQDIdY_qX9hUeTs4ZX5Pcxr8UrNFov1mAdBIORgVIqzUk49mU5T8Ib3D9dg2jT-lelvMpN5pzVGpeBEikfXBi6yQN7fSlLtMzcHQ0I24yk5QhmCoWPN5U3Y2t_3WfuGp9VfEhGRRoF4IjYby3KagUegDU947-mPR10m3WhtP3BClteIJRTkijOn5CiQdGFUWzoesr4FQD_8NYXOpZl0rhN-P_92LjQJYMp-XlwgSRU4IGVqWh8CMbfgdrMKureajuuimNZ11W30wYfB-vC__wtigGmW2pwE1iPp8f38CfGET8V0FpZW3SsYFh3Rm7oO9c7049N6I-tZ_cIe0VbQCHrkD14iNwolOzwbAA-wEU5FfJs4zcBJVasOzBJkfbCnlQ1FwCt3TiG_58QxKmWRQg87CMqmt5ngTslnmpjbizLbioGFo8BZ9JO9DyHqoVe4gyftHNsCUMWz0dBXFCiYlhlIhcB3IEM-SUsK-MTyIrAM6EOSc7ERbXk-tnG2Dk0AIvVUe1EDhMfN6PqIUcOy_nuFbnE0Td7KKnq16z27mc5EyaGGKhjjncjCc9VKFrIclFYSca9K3uej7T6kETaoAM96FEzn7MhkMj0SqG7NXFZpXa2h3k5r6P5EIESgk_1Qv5u9TZHba4vcGPyXxC35Q4Y5HoJMU85RMzHdiY4ONdE8GGeITCwNPAp4MZkEL_E2U0rb0lVWSgIPAyr2DtL-2ZbbJDiHPlZmvfcL04dHlZtSOLyKKCn7wvg6iKAs9ZpPqL7g6sAbADZfWQMnNwUQ1w1IJbQofLUpk-QW6veAk1RWKJMrkh7HF04Uc8nsqsB-iqeXDhb9L9NH5Xqa3jYoDfLw709m3vHquh7Y_GSNTJ6PEFKk7smFCAJG8nMcYYl23JRV1ecv6s-Nwlhxd66DlGULXKiPtjOFamvAtyLpexihnCh7eBPzonXbw6dPY7btAuc1y9e4sNxsBqnQZDFuDxJ1aTUyw8-MtwAem15e6BaTyrWrqBl-OyCOpuFx6YMlsnnz-hn9diTp61yTbIbN_a3l4PHjv6x0PM6yyuiM5TzQFdTtWsl5GF0zYUHf6wDijrMjQsfIrHVUY1eIEqz1oJp4Vo-ruuJEp7nLqZKO1In2DV9261aB4e8pJInv1tOGfv9LqvpXY5b_nmy9wt71viHY6tQSuwKDb7CwCJbnBPCMzogq9e9l74aueIKyj_JLXZXZ0PMxCMIm4_SyeGdYQg8fjeqNexfHbPDsn4zhj0AeyA7lazRlNdoDls3MI-C5n28GN3ejwAV4wmvSJl8UL5kGU08k9O5Kj57ZRR_UUnmpvhvZaiA3dmM3-5Svzo2za0Hn8P8V21css-edd3_TQ4rkk5RHp9iNVczzSrdxRbGPHXaECtiEZSbHVIS7YWxYCi1JYWdRGL4OY69Ps-SDPQYbUh43dFYTbyoWKCARuP4_xIhqB1sg5uZ3lQZ_8DU-NMII6THOQssIsK5Re1hMSFSiCgXflJOj4MGRBIze0kqbv1j1LH87Rb2mq1QioqoaIzkPnaJq_6KhPk1lgdipVqDugqPonpu4D71BNy440k9YsrmUDt8_GOR0x-aAyCSke1_Hyyj76--diAtuNqg2VZD7x297Zc3bjz4ePe0K3rSYAGCt2GImtqiUwvwEBsA_Jyif), Chaos: An Interdisciplinary Journal of Nonlinear Science **27** (4): 047410, 2017.
+12. Bernadette J. Stolz, Heather A. Harrington, and Mason A. Porter, [*Persistent homology of time-dependent functional networks constructed from coupled time series*](https://pubs.aip.org/aip/cha/article/27/4/047410/322562/Persistent-homology-of-time-dependent-functional), Chaos: An Interdisciplinary Journal of Nonlinear Science **27** (4): 047410, 2017.
 
 
 **Preprints**
@@ -39,4 +39,4 @@ title: Publications
 14. Bernadette J. Stolz-Pretzer. [*Global and local persistent homology for the shape
 and classification of biological data*](https://ora.ox.ac.uk/objects/uuid:3352ad74-87b4-415a-87d3-0592315763ac). PhD thesis, University of Oxford, 2019.
 
-15. Bernadette J. Stolz. [*Computational topology in neuroscience*](http://www.math.ucla.edu/~mason/research/Dissertation-stolz2014-Corr.pdf). Master’s thesis, University of Oxford, 2014.
+15. Bernadette J. Stolz. [*Computational topology in neuroscience*](/files/DissertationBSCorr.pdf). Master’s thesis, University of Oxford, 2014.
