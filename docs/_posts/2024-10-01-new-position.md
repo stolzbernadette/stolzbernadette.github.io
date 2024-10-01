@@ -1,7 +1,5 @@
 ---
 title: New position
-categories:
-- General
 feature_image: "image/background_image/IMG_9380.jpg"
 ---
 
