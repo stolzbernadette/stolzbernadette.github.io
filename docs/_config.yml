@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'stolzbernadette.github.io'
 baseurl: ''
-title: 'Bernadette Stolz
+title: 'Bernadette Stolz'
 description: 'This is my personal website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
