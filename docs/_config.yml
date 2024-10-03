@@ -60,7 +60,7 @@ collections:
     description: "News from the group"
     feature_text: |
       News from the group
-    feature_image: "image/background_image/IMG_9380.JPG"
+    feature_image: "images/background_image/IMG_9380.JPG"
 
 # Collection settings
 defaults:
