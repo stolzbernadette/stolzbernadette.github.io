@@ -1,6 +1,6 @@
 ---
 title:
-feature_image: "/images/background_image/IMG_5650.jpg"
+feature_image: "/images/background_image/IMG_9164.JPG"
 feature_text: |
   ## Topological Learning for Biomedicine
 ---
