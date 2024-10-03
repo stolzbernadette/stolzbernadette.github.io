@@ -9,4 +9,4 @@ I am Bernadette Stolz, a mathematician studying topology in biomedical data at t
 
 Previously, I held postdoctoral positions at [EPFL](https://www.epfl.ch/en/) in the [Laboratory for Topology and Neuroscience](https://www.epfl.ch/labs/hessbellwald-lab/) and in the [Centre for Topological Data Analysis](https://www.maths.ox.ac.uk/groups/topological-data-analysis) at the [University of Oxford](https://www.ox.ac.uk). I completed my PhD in 2020 at the [Mathematical Institute](https://www.maths.ox.ac.uk), University of Oxford, as part of the Systems Approaches to Biomedical Sciences Centre for Doctoral Training ([SABS CDT](https://www.sabsr3.ox.ac.uk/home)) in collaboration with [Roche](https://www.roche.ch/en/home).
 
-Feel free to reach out if you would like to discuss research, potential collaborations, or simply share ideas!
+Feel free to reach out if you would like to discuss research or potential collaborations! I also welcome inquiries from motivated students interested in thesis supervision or internships.
