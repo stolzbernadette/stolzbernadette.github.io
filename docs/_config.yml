@@ -59,7 +59,7 @@ collections:
     output: true
     description: "News from the group"
     feature_text: |
-      Welcome to my personal website
+      News from the group
     feature_image: "image/background_image/IMG_9380.jpg"
 
 # Collection settings
