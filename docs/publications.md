@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Publications
+### Publications
 
 1. Bernadette J. Stolz, Jagdeep Dhesi, Joshua A. Bull, Heather A. Harrington, Helen M. Byrne, and Iris H. R. Yoon, [*Relational persistent homology for multispecies data with application to the tumour microenvironment*](https://link.springer.com/article/10.1007/s11538-024-01353-6), Bulletin of Mathematical Biology **86** (11): 128, 2024.
 
@@ -29,12 +29,12 @@ title: Research
 12. Bernadette J. Stolz, Heather A. Harrington, and Mason A. Porter, [*Persistent homology of time-dependent functional networks constructed from coupled time series*](https://pubs.aip.org/aip/cha/article/27/4/047410/322562/Persistent-homology-of-time-dependent-functional), Chaos: An Interdisciplinary Journal of Nonlinear Science **27** (4): 047410, 2017.
 
 
-## Preprints
+### Preprints
 
 13. Joshua A. Bull, Eoghan J. Mulholland, Joshua W. Moore, Jesús J. Bosque, Bernadette J. Stolz, Joseph Boen, Holly R. Eggington, Hayley L. Belnoue-Davis, Helen Jones, Chandler D. Gatenbee, Alexander R. A. Anderson, Alistair Easton, Peter Todd, Christopher Cunningham, Stephen Taylor, Helen M. Byrne, and Simon J. Leedham, [*Integrating diverse statistical methods to analyse stage-discriminatory cell interactions in colorectal neoplasia*](https://www.biorxiv.org/content/10.1101/2024.06.02.597010v1), 2024.06.02.597010, 2024.
 
 
-## Theses
+### Theses
 
 14. Bernadette J. Stolz-Pretzer. [*Global and local persistent homology for the shape
 and classification of biological data*](https://ora.ox.ac.uk/objects/uuid:3352ad74-87b4-415a-87d3-0592315763ac). PhD thesis, University of Oxford, 2019.
