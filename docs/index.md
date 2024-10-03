@@ -1,5 +1,5 @@
 ---
-title: **Topological Learning for Biomedicine**
+title: Topological Learning for Biomedicine
 feature_image: "/images/background_image/IMG_4632.JPG"
 feature_text: |
   ## Topological Learning for Biomedicine
