@@ -1,6 +1,6 @@
 ---
 title: Research
-feature_image: "/images/background_image/IMG_4632.jpg"
+feature_image: "/images/background_image/IMG_4632.JPG"
 ---
 
 ### Publications
