@@ -23,6 +23,6 @@ Interested in developing new methods in topological data analysis and machine le
 
 Fausto Bradke, MSc student (co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
 
-[Titas Starolis](https://people.epfl.ch/tam.nguyen?lang=en), intern.
+Titas Starolis, intern.
 
 Léo Lévy, BSc student, current placement: MSc in Creative Writing.
