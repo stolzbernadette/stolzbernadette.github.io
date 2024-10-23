@@ -17,12 +17,12 @@ Interested in developing new methods in topological data analysis and machine le
 
 ### Alumni
 
-[Tâm Nguyen](https://people.epfl.ch/tam.nguyen?lang=en), MSc student (co-supervised with [Dr. Darrick Lee](https://darricklee.com)), current placement: PhD student in the [Laboratory of Computational Neuroscience](https://www.epfl.ch/labs/lcn/) with [Prof. Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
+[Tâm Nguyen](https://people.epfl.ch/tam.nguyen?lang=en), EPFL MSc student (co-supervised with [Dr. Darrick Lee](https://darricklee.com)), current placement: PhD student in the [Laboratory of Computational Neuroscience](https://www.epfl.ch/labs/lcn/) with [Prof. Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
 
-[Jérémy Baffou](https://people.epfl.ch/jeremy.baffou?lang=en), MSc student (co-supervised with [Dr. Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) and [Dr. Vaishnavi Submaranian](https://people.epfl.ch/vaishnavi.subramanian?lang=en)), current placement: PhD student in the [Signal Processing Laboratory](https://www.epfl.ch/labs/lts4/) with [Prof. Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/).
+[Jérémy Baffou](https://people.epfl.ch/jeremy.baffou?lang=en), EPFL MSc student (co-supervised with [Dr. Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) and [Dr. Vaishnavi Submaranian](https://people.epfl.ch/vaishnavi.subramanian?lang=en)), current placement: PhD student in the [Signal Processing Laboratory](https://www.epfl.ch/labs/lts4/) with [Prof. Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/).
 
-Fausto Bradke, MSc student (co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
+Fausto Bradke, University of Vienna MSc student (co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
 
-Titas Starolis, intern.
+Titas Starolis, EPFL research intern.
 
-Léo Lévy, BSc student, current placement: MSc in Creative Writing.
+Léo Lévy, EPFL BSc student, current placement: MSc in Creative Writing.
