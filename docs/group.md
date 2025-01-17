@@ -1,5 +1,6 @@
 ---
 title: Group
+feature_image: "/images/background_image/IMG_5264.JPG"
 ---
 
 ### Current members
