@@ -1,5 +1,5 @@
 ---
-title: New preprint by Tâm: Communities in the Kuramoto model: dynamics and detection via path signatures
+title: New preprint by Tâm
 feature_image: "/images/background_image/IMG_9380.JPG"
 ---
 

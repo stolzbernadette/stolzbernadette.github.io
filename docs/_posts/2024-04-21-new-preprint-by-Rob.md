@@ -1,5 +1,5 @@
 ---
-title: New preprint by Rob: *Topological model selection: a case-study in tumour-induced angiogenesis*
+title: New preprint by Rob
 feature_image: "/images/background_image/IMG_9380.JPG"
 ---
 
