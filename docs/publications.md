@@ -32,12 +32,16 @@ feature_image: "/images/background_image/IMG_4632.JPG"
 
 ### Preprints
 
-13. Joshua A. Bull, Eoghan J. Mulholland, Joshua W. Moore, Jesús J. Bosque, Bernadette J. Stolz, Joseph Boen, Holly R. Eggington, Hayley L. Belnoue-Davis, Helen Jones, Chandler D. Gatenbee, Alexander R. A. Anderson, Alistair Easton, Peter Todd, Christopher Cunningham, Stephen Taylor, Helen M. Byrne, and Simon J. Leedham, [*Integrating diverse statistical methods to analyse stage-discriminatory cell interactions in colorectal neoplasia*](https://www.biorxiv.org/content/10.1101/2024.06.02.597010v1), 2024.06.02.597010, 2024.
+13. Robert A. McDonald, Helen M. Byrne, Heather A. Harrington, Thomas Thorne, Bernadette J. Stolz, [*Topological model selection: a case-study in tumour-induced angiogenesis*](https://arxiv.org/abs/2504.15442), 2504.15442, 2025.
+
+14. Tâm J. Nguyen, Darrick Lee, Bernadette J. Stolz, [*Communities in the Kuramoto model: dynamics and detection via path signatures*](https://arxiv.org/abs/2503.17546), 2503.17546, 2025.
+
+15. Joshua A. Bull, Eoghan J. Mulholland, Joshua W. Moore, Jesús J. Bosque, Bernadette J. Stolz, Joseph Boen, Holly R. Eggington, Hayley L. Belnoue-Davis, Helen Jones, Chandler D. Gatenbee, Alexander R. A. Anderson, Alistair Easton, Peter Todd, Christopher Cunningham, Stephen Taylor, Helen M. Byrne, and Simon J. Leedham, [*Integrating diverse statistical methods to analyse stage-discriminatory cell interactions in colorectal neoplasia*](https://www.biorxiv.org/content/10.1101/2024.06.02.597010v1), 2024.06.02.597010, 2024.
 
 
 ### Theses
 
-14. Bernadette J. Stolz-Pretzer. [*Global and local persistent homology for the shape
+16. Bernadette J. Stolz-Pretzer. [*Global and local persistent homology for the shape
 and classification of biological data*](https://ora.ox.ac.uk/objects/uuid:3352ad74-87b4-415a-87d3-0592315763ac). PhD thesis, University of Oxford, 2019.
 
-15. Bernadette J. Stolz. [*Computational topology in neuroscience*](/files/DissertationBSCorr.pdf). Master’s thesis, University of Oxford, 2014.
+17. Bernadette J. Stolz. [*Computational topology in neuroscience*](/files/DissertationBSCorr.pdf). Master’s thesis, University of Oxford, 2014.
