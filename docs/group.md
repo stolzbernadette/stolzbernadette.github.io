@@ -19,15 +19,15 @@ Postdoc<br>
 Research interests: Applied topology, homotopy theory of stratified spaces
 
 Emil Bennewitz<br>
-MSc Student (EPFL, joint with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en>)<br>
+MSc Student (EPFL, joint with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en)<br>
 Research interests: Relational topological data analysis
 
 Manuel Arriaza Rincón<br>
-MSc Student (Universidad de Sevilla, joint with [Maria José Jimenez](https://personal.us.es/majiro/>)<br>
+MSc Student (Universidad de Sevilla, joint with [Maria José Jimenez](https://personal.us.es/majiro/)<br>
 Research interests: Relational topological data analysis
 
 Julia Sollberger<br>
-MSc Student (ETHZ, joint with [Sara Kališnik](https://people.math.ethz.ch/~skalisnik/>)<br>
+MSc Student (ETHZ, joint with [Sara Kališnik](https://people.math.ethz.ch/~skalisnik/)<br>
 Research interests: Magnitude, applications to multispecies data
 
 ### Alumni
