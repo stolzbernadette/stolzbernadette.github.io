@@ -14,8 +14,8 @@ Research interests: Topological data analysis, mathematical biology, data scienc
 ### Affiliated members
 
 <img src="/images/group_fotos/LukasWaas.png" alt="Photo of Lukas Waas" width="170" />  
-[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/)
-Postdoc
+[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/)<br>
+Postdoc<br>
 Research interests: Applied topology, homotopy theory of stratified spaces
 
 Emil Bennewitz
