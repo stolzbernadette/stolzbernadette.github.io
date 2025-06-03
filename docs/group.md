@@ -11,6 +11,24 @@ Project Leader
 stolz[at]biochem.mpg.de  
 Research interests: Topological data analysis, mathematical biology, data science  
 
+### Affiliated members
+
+<img src="/images/group_fotos/LukasWaas.jpg" alt="Photo of Lukas Waas" width="170" />  
+[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/)
+Postdoc
+Research interests: Applied topology, homotopy theory of stratified spaces
+
+Emil Bennewitz
+MSc Student (EPFL, joint with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en>)
+Research interests: Relational topological data analysis
+
+Manuel Arriaza Rincón
+MSc Student (Universidad de Sevilla, joint with [Maria José Jimenez](https://personal.us.es/majiro/>)
+Research interests: Relational topological data analysis
+
+Julia Sollberger
+MSc Student (ETHZ, joint with [Sara Kališnik](https://people.math.ethz.ch/~skalisnik/>)
+Research interests: Magnitude, applications to multispecies data
 
 ### Alumni
 
