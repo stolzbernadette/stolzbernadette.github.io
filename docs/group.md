@@ -17,7 +17,7 @@ Research interests: Topological data analysis, mathematical biology, data scienc
 Dr. Lukas Waas<br>
 Postdoc<br>
 [Personal website](https://www.mathi.uni-heidelberg.de/~lwaas/)<br>
-Research interests: Applied topology, homotopy theory of stratified spaces
+Research interests: Stratified spaces, homotopy theory, topological data analysis
 
 Emil Bennewitz<br>
 MSc Student (EPFL, joint with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en))<br>
