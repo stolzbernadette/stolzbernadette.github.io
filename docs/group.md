@@ -11,6 +11,12 @@ Project Leader
 stolz[at]biochem.mpg.de  
 Research interests: Topological data analysis, mathematical biology, data science  
 
+<img src="/images/group_fotos/SophieRosenmeier.jpg" alt="Photo of Sophie Rosenmeier" width="170" />  
+Sophie Rosenmeier  
+PhD student  
+rosenmeier[at]biochem.mpg.de  
+Research interests: Topological data analysis (in particular for multispecies/chromatic data), persistent homology, mathematical modelling
+
 ### Affiliated members
 
 <img src="/images/group_fotos/LukasWaas.png" alt="Photo of Lukas Waas" width="170" />  
@@ -19,26 +25,20 @@ Postdoc<br>
 [Personal website](https://www.mathi.uni-heidelberg.de/~lwaas/)<br>
 Research interests: Stratified spaces, homotopy theory, topological data analysis
 
-Emil Bennewitz<br>
-MSc Student (EPFL, joint with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en))<br>
-Research interests: Relational topological data analysis
-
-Manuel Arriaza Rincón<br>
-MSc Student (Universidad de Sevilla, joint with [Maria José Jimenez](https://personal.us.es/majiro/))<br>
-Research interests: Relational topological data analysis
-
-Julia Sollberger<br>
-MSc Student (ETHZ, joint with [Sara Kališnik](https://people.math.ethz.ch/~skalisnik/))<br>
-Research interests: Magnitude, applications to multispecies data
-
 ### Alumni
 
-[Tâm Nguyen](https://people.epfl.ch/tam.nguyen?lang=en), EPFL MSc student (co-supervised with [Dr. Darrick Lee](https://darricklee.com)), current placement: PhD student in the [Laboratory of Computational Neuroscience](https://www.epfl.ch/labs/lcn/) with [Prof. Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
+[Julia Sollberger](https://research.vu.nl/en/persons/julia-sollberger), MSc Student (ETHZ, co-supervised with with [Sara Kališnik](https://people.math.ethz.ch/~skalisnik/)), current placement: PhD student at Vrije Universiteit Amsterdam with [Prof. Magnus Botnan](https://www.few.vu.nl/~botnan/).
 
-[Jérémy Baffou](https://people.epfl.ch/jeremy.baffou?lang=en), EPFL MSc student (co-supervised with [Dr. Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) and [Dr. Vaishnavi Submaranian](https://people.epfl.ch/vaishnavi.subramanian?lang=en)), current placement: PhD student in the [Signal Processing Laboratory](https://www.epfl.ch/labs/lts4/) with [Prof. Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/).
+Emil Bennewitz, MSc Student (EPFL, co-supervised with with [Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en)).
 
-Fausto Bradke, University of Vienna MSc student (co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
+Manuel Arriaza Rincón, MSc Student (Universidad de Sevilla, co-supervised with with [Maria José Jimenez](https://personal.us.es/majiro/)).
 
-Titas Starolis, EPFL research intern.
+[Tâm Nguyen](https://people.epfl.ch/tam.nguyen?lang=en), MSc student (EPFL, co-supervised with [Dr. Darrick Lee](https://darricklee.com)), current placement: PhD student in the [Laboratory of Computational Neuroscience](https://www.epfl.ch/labs/lcn/) with [Prof. Wulfram Gerstner](https://lcnwww.epfl.ch/gerstner/).
 
-Léo Lévy, EPFL BSc student, current placement: MSc in Creative Writing.
+[Jérémy Baffou](https://people.epfl.ch/jeremy.baffou?lang=en), MSc student (EPFL, co-supervised with [Dr. Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) and [Dr. Vaishnavi Submaranian](https://people.epfl.ch/vaishnavi.subramanian?lang=en)), current placement: PhD student in the [Signal Processing Laboratory](https://www.epfl.ch/labs/lts4/) with [Prof. Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/).
+
+Fausto Bradke, MSc student (University of Vienna, co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
+
+Titas Starolis, research intern, EPFL.
+
+Léo Lévy, BSc student, EPFL, current placement: MSc in Creative Writing.
