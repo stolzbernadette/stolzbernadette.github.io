@@ -17,15 +17,17 @@ PhD student
 rosenmeier[at]biochem.mpg.de  
 Research interests: Topological data analysis (in particular for multispecies/chromatic data), persistent homology, mathematical modelling
 
-### Affiliated members
+<!--### Affiliated members
 
 <img src="/images/group_fotos/LukasWaas.png" alt="Photo of Lukas Waas" width="170" />  
 Dr. Lukas Waas<br>
 Postdoc<br>
 [Personal website](https://www.mathi.uni-heidelberg.de/~lwaas/)<br>
-Research interests: Stratified spaces, homotopy theory, topological data analysis
+Research interests: Stratified spaces, homotopy theory, topological data analysis -->
 
 ### Alumni
+
+[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/), Postdoc, current placement: Postdoc at the University of Oxford.
 
 [Julia Sollberger](https://research.vu.nl/en/persons/julia-sollberger), MSc Student (ETHZ, 2024/2025, co-supervised with with [Sara Kališnik](https://sites.psu.edu/skalisnik/)), current placement: PhD student at Vrije Universiteit Amsterdam with [Prof. Magnus Botnan](https://www.few.vu.nl/~botnan/).
 
