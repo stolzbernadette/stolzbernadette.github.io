@@ -4,7 +4,7 @@ title: About
 
 <figure style="margin: 0;">
   <img src="/images/group_fotos/PHD_8682_web_2.jpg" alt="Photo of Bernadette J. Stolz" width="200" />
-  <div style="font-size: 10px; color: #666; margin-top: -10px;">Photo credit: Phil Dera</div>
+  <div style="font-size: 10px; color: #666; margin-top: -18px;">Photo credit: Phil Dera</div>
 </figure>
 
 
