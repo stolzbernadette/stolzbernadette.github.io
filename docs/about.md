@@ -2,10 +2,10 @@
 title: About
 ---
 
-<div style="float: left; margin: 0 10px 10px 0; text-align: center;">
+<figure style="margin: 0;">
   <img src="/images/group_fotos/PHD_8682_web_2.jpg" alt="Photo of Bernadette J. Stolz" width="200" />
   <div style="font-size: 10px; color: #666;">Photo credit: Phil Dera</div>
-</div>
+</figure>
 
 <p>
 I am Bernadette Stolz, a mathematician studying topology in biomedical data at the [Max Planck Institute of Biochemistry](https://www.biochem.mpg.de/en) in the [Department of Machine Learning and Systems Biology](https://www.biochem.mpg.de/borgwardt) where I lead the project group "Topological Learning in the Life Sciences". My research focuses on designing sophisticated computational methods with roots in algebra, geometry, and topology to find and understand patterns in biomedical data. My additional background in [molecular medicine](https://www.umg.eu/en/study-and-teaching/studieren-an-der-umg/study-programmes/molecular-medicine/#:~:text=The%20basic%20Bachelor's%20degree%20in,invited%20to%20complete%20the%20test.) allows me to work on exciting problems at the intersection of mathematics, computational biology, and biomedicine. I am a member of [MCML](https://mcml.ai) and [ELLIS](https://ellis.eu), my work has received national and international awards.
