@@ -5,7 +5,7 @@ feature_image: "/images/background_image/IMG_4632.JPG"
 
 ### Publications
 
-1. Tâm J. Nguyen, Darrick Lee, Bernadette J. Stolz, [*Communities in the Kuramoto model: dynamics and detection via path signatures*](https://arxiv.org/abs/2503.17546), Journal of Physics: Complexity (in press), 2025.
+1. Tâm J. Nguyen, Darrick Lee, Bernadette J. Stolz, [*Communities in the Kuramoto model: dynamics and detection via path signatures*](https://arxiv.org/abs/2503.17546), Journal of Physics: Complexity **6** (4):045009, 2025.
 
 2. Bernadette J. Stolz, Jagdeep Dhesi, Joshua A. Bull, Heather A. Harrington, Helen M. Byrne, and Iris H. R. Yoon, [*Relational persistent homology for multispecies data with application to the tumour microenvironment*](https://link.springer.com/article/10.1007/s11538-024-01353-6), Bulletin of Mathematical Biology **86** (11): 128, 2024.
 
