@@ -27,7 +27,9 @@ Research interests: Stratified spaces, homotopy theory, topological data analysi
 
 ### Alumni
 
-[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/), Postdoc, current placement: Postdoc at the University of Oxford.
+Arthur Rihouey, MSc student (MPIB, 2026).
+
+[Dr. Lukas Waas](https://www.mathi.uni-heidelberg.de/~lwaas/), Postdoc (Heidelberg/MPIB, 2025), current placement: Postdoc at the University of Oxford.
 
 [Julia Sollberger](https://research.vu.nl/en/persons/julia-sollberger), MSc Student (ETHZ, 2024/2025, co-supervised with with [Sara Kališnik](https://sites.psu.edu/skalisnik/)), current placement: PhD student at Vrije Universiteit Amsterdam with [Prof. Magnus Botnan](https://www.few.vu.nl/~botnan/).
 
@@ -41,6 +43,6 @@ Manuel Arriaza Rincón, MSc Student (Universidad de Sevilla, 2025, co-supervised
 
 Fausto Bradke, MSc student (University of Vienna, 2023, co-supervised with [Dr. Henri Riihimäki](https://www.kth.se/profile/henrir?l=en)), current placement: MSc in Creative Writing.
 
-Titas Starolis, research intern, 2022, EPFL.
+Titas Starolis, research intern (EPFL, 2022).
 
-Léo Lévy, BSc student, EPFL, 202current placement: MSc in Creative Writing.
+Léo Lévy, BSc student (EPFL, 2023), current placement: MSc in Creative Writing.
