@@ -17,6 +17,14 @@ PhD student
 rosenmeier[at]biochem.mpg.de  
 Research interests: Topological data analysis (in particular for multispecies/chromatic data), persistent homology, mathematical modelling
 
+### Affiliated members
+
+<img src="/images/group_fotos/BrittaDaub.jpg" alt="Photo of Britta Daub" width="170" />  
+Britta Daub
+PhD student (co-supervised with Prof. [Daniel Roggenkamp](https://www.mis.mpg.de/people/daniel-roggenkamp))
+britta.daub[at]mis.mpg.de  
+Research interests: Topological data analysis, network science, methods for gene expression data
+
 <!--### Affiliated members
 
 <img src="/images/group_fotos/LukasWaas.png" alt="Photo of Lukas Waas" width="170" />  
